@@ -1,0 +1,23 @@
+
+body {
+	text-align:center;
+	background-color: pink;
+}
+
+img {
+	height:250px;
+	border-radius: 30%;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+	color:red;
+}
+
+.niceblue {
+	background-color:blue;
+	color:white;
+	border: 1px solid red;
+	margin-right: 20%;
+	margin-left: 20%;
+}
